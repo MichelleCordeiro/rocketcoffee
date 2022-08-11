@@ -41,8 +41,11 @@ Menu digital desenvolvido na Maratona Explorer 3.0, da [Rocketseat](https://www.
 
 Baseado no [código](https://efficient-sloth-d85.notion.site/Maratona-Explorer-3-0-ae50831142ab492e997d28aab6e4fa1b) usado na maratona.
 <br>
+<br>
 
 <!-- Projects -->
 <h3> 🖼️ Imagens: </h3>
-  <img src="https://i.postimg.cc/zDQ0DgFz/QRcode.png" alt="QR code" width="150">
-  <img src="https://i.postimg.cc/3wxzbb58/cute-cuchufli-8d34ba-netlify-app-mobile-2.png" alt="QR code" width="400" style="padding-left:10%">
+<p align="left">
+  <img src="https://i.postimg.cc/pXZmfpPw/cute-cuchufli-8d34ba-netlify-app-mobile-2.png" alt="Menu digital" width="500">
+  <img src="https://i.postimg.cc/zDQ0DgFz/QRcode.png" alt="QR code" width="150" padding-right="50px">
+</p>
