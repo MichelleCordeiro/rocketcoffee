@@ -17,8 +17,6 @@ Menu digital desenvolvido na Maratona Explorer 3.0, da [Rocketseat](https://www.
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
   <code><a url="https://www.netlify.com/"><img height="20" src="https://i.postimg.cc/fWfCw9Mn/netlify-logo-1.png.png"></a></code>
-  <img src="https://i.postimg.cc/xTBRSNVw/cute-cuchufli-8d34ba-netlify-app-mobile-cut2.png" alt="QR code" width="200" style="float:right;">
-  <img src="https://i.postimg.cc/zDQ0DgFz/QRcode.png" alt="QR code" width="200" style="float:right;padding-right:5%">
 </p><br>
 
 <!-- Projects -->
@@ -42,3 +40,9 @@ Menu digital desenvolvido na Maratona Explorer 3.0, da [Rocketseat](https://www.
 <h3> 👩‍💻 Info: </h3>
 
 Baseado no [código](https://efficient-sloth-d85.notion.site/Maratona-Explorer-3-0-ae50831142ab492e997d28aab6e4fa1b) usado na maratona.
+<br>
+
+<!-- Projects -->
+<h3> 🖼️ Imagens: </h3>
+  <img src="https://i.postimg.cc/zDQ0DgFz/QRcode.png" alt="QR code" width="150">
+  <img src="https://i.postimg.cc/3wxzbb58/cute-cuchufli-8d34ba-netlify-app-mobile-2.png" alt="QR code" width="400" style="padding-left:10%">
