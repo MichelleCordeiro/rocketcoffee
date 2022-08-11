@@ -8,6 +8,7 @@ body {
   font-family: 'Roboto', sans-serif;
   max-width: 300px;
   margin: 0 auto;
+  padding-block: 2%;
 }
 
 ul {

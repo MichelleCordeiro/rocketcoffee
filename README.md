@@ -10,38 +10,35 @@
 Menu digital desenvolvido na Maratona Explorer 3.0, da [Rocketseat](https://www.rocketseat.com.br/), com o dev [Mayk Brito](https://br.linkedin.com/in/maykbrito).
 <br>
 
-<p align="center">
-  <!-- <img src=video.gif alt="EBAC" tittle="Gif" width="500"> -->
-</p>
-
 <!-- Ícones das linguagens -->
-<h3> 💻 Technologies & Tool </h3>
+<h3> 💻 Tecnologias </h3>
 <p align="left">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
   <code><a url="https://www.netlify.com/"><img height="20" src="https://i.postimg.cc/fWfCw9Mn/netlify-logo-1.png.png"></a></code>
+  <img src="https://i.postimg.cc/xTBRSNVw/cute-cuchufli-8d34ba-netlify-app-mobile-cut2.png" alt="QR code" width="200" style="float:right;">
+  <img src="https://i.postimg.cc/zDQ0DgFz/QRcode.png" alt="QR code" width="200" style="float:right;padding-right:5%">
 </p><br>
 
 <!-- Projects -->
-<h2> 🎯 Aprendizado: </h2>
-Neste workshop em Javascript o foco foi:
+<h3> 🎯 Aprendizado: </h3>
 
 - HTML
 - CSS
-- netlify
+- Netlify
 - QR-code
 
 <br>
-<h2> 🚀 Adicionais: </h2>
+<h3> 🚀 Adicionais: </h3>
 
 - [x] imagens no background
 - [x] sombras
-- [ ] customização do QR-code
+- [x] customização do QR-code
 - [ ] botão do whatsapp web
 
 <!-- Dev Info -->
 <br>
-<h2> 👩‍💻 Info: </h2>
+<h3> 👩‍💻 Info: </h3>
 
 Baseado no [código](https://efficient-sloth-d85.notion.site/Maratona-Explorer-3-0-ae50831142ab492e997d28aab6e4fa1b) usado na maratona.
